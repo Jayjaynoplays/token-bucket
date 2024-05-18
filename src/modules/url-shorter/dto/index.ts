@@ -1,1 +1,1 @@
-export * from './get-shorted-url.dto';
+export * from './request/get-shorted-url.dto';
